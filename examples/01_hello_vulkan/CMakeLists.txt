@@ -1,0 +1,2 @@
+add_executable(01_hello_vulkan main.cpp)
+target_link_libraries(01_hello_vulkan glfw vulkan)
